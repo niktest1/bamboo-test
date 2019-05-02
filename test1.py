@@ -1,4 +1,4 @@
 def test1:
   print("Hello World")
   
-test1
+test2
